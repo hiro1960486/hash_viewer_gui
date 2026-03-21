@@ -4,7 +4,7 @@ A GUI tool for viewing and comparing SHA256 hashes (JP/EN)
 
 ## Download / ダウンロード
 
-👉 [Download Latest Release](../../releases/latest)
+👉 [Download Latest Release](https://github.com/hiro1960486/hash_viewer_gui/releases/latest)
 
 ---
 
