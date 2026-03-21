@@ -1,0 +1,6 @@
+【Release用ハッシュ一覧】
+Version: v3.2-dev
+対象件数: 1
+
+ファイル名: Release_v3.2-dev.zip
+SHA256: da39ed825fb88c68ad297f2d086fa4124b35fb142bd03fd62aaea44bd7e11568

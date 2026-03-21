@@ -1,0 +1,51 @@
+===============================================
+# Project Information / プロジェクト情報
+===============================================
+
+Project Name : hash_viewer_gui
+Version      : v3.2
+Author       : owner
+Updated      : 2026-03-21
+
+Description (概要):
+    SHA256 ハッシュ表示 / CSV保存 / バージョン比較 / D&D対応
+    日本語 / English UI 切替に対応した GUI アプリケーションです。
+
+Features (特徴):
+    - ドラッグ＆ドロップ対応
+    - スタンドアロン EXE（Python 不要）
+    - SHA256 ハッシュ表示
+    - CSV 保存
+    - バージョン比較
+    - 日本語 / 英語 UI 切替
+
+-----------------------------------------------
+# File Information / ファイル情報
+-----------------------------------------------
+
+Main File : hash_viewer_gui.py
+Purpose   : ハッシュ管理ツール（GUI）
+Notes     : A/B 比較対応
+
+-----------------------------------------------
+# Drag & Drop Support Library
+Install (if needed):
+    pip install tkinterdnd2
+-----------------------------------------------
+
+
+===============================================
+# Developer Notes / 開発者向け情報
+===============================================
+
+Dev File Name : hash_viewer_gui_dev.py
+Dev Version   : v3.2-dev
+Dev Summary   :
+    - Developer Mode（開発者向け機能）
+    - リリース用ハッシュリスト生成
+    - A/B 比較の事前指定対応
+
+Additional Notes (備考):
+    - 日本語 UI にも対応した汎用ハッシュ管理ツール
+    - テンプレートプロジェクトからコピーして使用
+===============================================
