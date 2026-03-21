@@ -9,6 +9,20 @@ A GUI tool for viewing and comparing SHA256 hashes (JP/EN)
 ※ 上のリンクをクリック → ページ下の「Assets」から ZIP ファイルをダウンロードしてください  
 *Click the link above, then download the ZIP file from the "Assets" section.*
 
+## Screenshot / スクリーンショット
+
+### Normal Mode（通常モード）
+
+ファイル単体のハッシュ確認やCSV出力が可能です。
+
+![Normal Mode](../assets/images/normal.png)
+
+### Developer Mode（開発モード）
+
+バージョン比較や詳細なハッシュ確認に対応しています。
+
+![Developer Mode](../assets/images/dev.png)
+
 ---
 
 **Language:** [🇯🇵 日本語](#japanese) | [🇺🇸 English](#english)
