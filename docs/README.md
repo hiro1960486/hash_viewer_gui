@@ -1,10 +1,18 @@
 # hash_viewer_gui
 
-**Language:** [🇯🇵 日本語](#日本語) | [🇺🇸 English](#english)
+## Download / ダウンロード
+
+👉 [Download Latest Release](../../releases/latest)
 
 ---
 
-## 日本語
+**Language:** [🇯🇵 日本語はこちら](#japanese) | [🇺🇸 English](#english)
+
+---
+
+---
+
+## Japanese
 
 ### 概要
 
@@ -65,3 +73,10 @@ Run `tools/build.bat`.
 ### Version History
 
 - v3.2 Initial release (template applied)
+
+---
+
+## License / ライセンス
+
+This project is licensed under the MIT License.  
+本プロジェクトは MIT ライセンスのもとで公開されています。
