@@ -6,6 +6,10 @@ A GUI tool for viewing and comparing SHA256 hashes (JP/EN)
 
 👉 [Download Latest Release](https://github.com/hiro1960486/hash_viewer_gui/releases/latest)
 
+※ 上のリンクからZIPファイルをダウンロードしてください。
+
+Click the link above to download the ZIP file.
+
 ---
 
 **Language:** [🇯🇵 日本語](#japanese) | [🇺🇸 English](#english)
