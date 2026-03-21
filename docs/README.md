@@ -1,14 +1,14 @@
 # hash_viewer_gui
 
+A GUI tool for viewing and comparing SHA256 hashes (JP/EN)
+
 ## Download / ダウンロード
 
 👉 [Download Latest Release](../../releases/latest)
 
 ---
 
-**Language:** [🇯🇵 日本語はこちら](#japanese) | [🇺🇸 English](#english)
-
----
+**Language:** [🇯🇵 日本語](#japanese) | [🇺🇸 English](#english)
 
 ---
 
@@ -53,22 +53,22 @@ It supports Japanese/English UI switching and drag & drop operations.
 
 ### Features
 
-- Drag & Drop support  
-- Standalone EXE (no Python required)  
-- SHA256 hash display  
-- CSV saving  
-- Version comparison  
-- Japanese / English UI switching  
+- Drag & Drop support
+- Standalone EXE (no Python required)
+- SHA256 hash display
+- CSV saving
+- Version comparison
+- Japanese / English UI switching
 
 ### Usage
 
-1. Run the EXE in the `dist` folder  
+1. Run the EXE in the dist folder  
 2. Drag & drop files  
 3. Results will be displayed  
 
 ### Build
 
-Run `tools/build.bat`.
+Run tools/build.bat.
 
 ### Version History
 
