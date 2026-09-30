@@ -15,13 +15,13 @@ A GUI tool for viewing and comparing SHA256 hashes (JP/EN)
 
 ファイル単体のハッシュ確認やCSV出力が可能です。
 
-![Normal Mode](../assets/images/normal.png)
+![Normal Mode](assets/images/normal.png)
 
 ### Developer Mode（開発モード）
 
 バージョン比較や詳細なハッシュ確認に対応しています。
 
-![Developer Mode](../assets/images/dev.png)
+![Developer Mode](assets/images/dev.png)
 
 ---
 
@@ -99,3 +99,14 @@ Run tools/99_build.bat.
 
 This project is licensed under the MIT License.  
 本プロジェクトは MIT ライセンスのもとで公開されています。
+
+## Repository structure / 構成
+
+- `src/v3.2-dev/`: application source / ソース
+- `tools/99_build.bat`: Windows build / ビルド
+- `dist/Release_v3.2-dev.zip`: verified distribution / 動作確認済み配布ZIP
+- `dist/Release_v3.2-dev_hash.txt`: distribution SHA256
+- `docs/`: documentation / 説明
+- `assets/images/`: screenshots / 画面画像
+
+2026-09-30: Repository build path and documentation repaired. Application source and verified release are unchanged.
