@@ -110,3 +110,9 @@ This project is licensed under the MIT License.
 - `assets/images/`: screenshots / 画面画像
 
 2026-09-30: Repository build path and documentation repaired. Application source and verified release are unchanged.
+
+## FileWorkbenchとの連携（2026-10-06）
+
+[FileWorkbench](https://github.com/hiro1960486/FileWorkbench) Ver.0.7.0にSHA256一覧・CSV比較・A/B比較・入力ハッシュ照合・配布用出力を追加しました。CSVはv3.2-devの列構成に対応し、照合結果を重複整理、選択行をリネーム・タグ登録・任意退避へ渡せます。
+
+この独立アプリのソースとv3.2-dev配布物は保持します。FileWorkbenchは現在非公開です。英語切替と開発用表示を含む独立版の完全移植ではありません。
