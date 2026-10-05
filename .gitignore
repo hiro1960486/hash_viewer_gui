@@ -1,23 +1,21 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-build/
-*.spec
-dist/build_v3.2-dev/
-
-# Source-only local workspace policy (2026-10-05)
+# Source and documentation only; generated files stay local.
+# Python environments and caches
 .venv*/
 venv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+
+# Build and distribution output (including dist/Release_v3.2-dev/)
 /build/
 /dist/
 /release/
 /publish/
+*.spec
 **/bin/
 **/obj/
+
+# Local packages, logs, and temporary files
 *.zip
 *.7z
 *.log
